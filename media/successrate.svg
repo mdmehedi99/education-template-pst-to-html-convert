@@ -1,0 +1,24 @@
+<svg 
+ xmlns="http://www.w3.org/2000/svg"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ width="258px" height="258px">
+<defs>
+<filter filterUnits="userSpaceOnUse" id="Filter_0" x="0px" y="0px" width="258px" height="258px"  >
+    <feOffset in="SourceAlpha" dx="0" dy="10" />
+    <feGaussianBlur result="blurOut" stdDeviation="7.874" />
+    <feFlood flood-color="rgb(188, 175, 253)" result="floodOut" />
+    <feComposite operator="atop" in="floodOut" in2="blurOut" />
+    <feComponentTransfer><feFuncA type="linear" slope="1"/></feComponentTransfer>
+    <feMerge>
+    <feMergeNode/>
+    <feMergeNode in="SourceGraphic"/>
+  </feMerge>
+</filter>
+
+</defs>
+<g filter="url(#Filter_0)">
+<path fill-rule="evenodd"  fill="rgb(105, 75, 255)"
+ d="M128.500,51.000 C165.779,51.000 196.000,81.221 196.000,118.500 C196.000,155.779 165.779,186.000 128.500,186.000 C91.221,186.000 61.000,155.779 61.000,118.500 C61.000,81.221 91.221,51.000 128.500,51.000 Z"/>
+</g>
+<image  x="96px" y="85px" width="66px" height="67px"  xlink:href="data:img/png;base64,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" />
+</svg>
